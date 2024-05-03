@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AMAZON</string>
+    <string name="si">Sign In</string>
+    <string name="email">Email  (phone for mobile accounts)</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forget your password?</string>
+    <string name="sib">Sign In</string>
+    <string name="label">__________New to Amazon__________</string>
+    <string name="newAcc">Create Your Amazon Account</string>
+    <string name="emailHint">Type your email here</string>
+    <string name="passwordHint">Type your password here</string>
+</resources>

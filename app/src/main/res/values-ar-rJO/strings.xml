@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMAZON</string>
+    <string name="si">الدخول</string>
+    <string name="email">البريد الالكتروني (الهاتف لحساب الجوال)</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot">نسيت كلمة السر؟</string>
+    <string name="sib">الدخول</string>
+    <string name="label">__________عميل جديد__________</string>
+    <string name="newAcc">تفعيل حساب جديد</string>
+    <string name="emailHint">اكتب بريدك الالكتروني هنا</string>
+    <string name="passwordHint">اكتب كلمة المرور هنا</string>
+</resources>
